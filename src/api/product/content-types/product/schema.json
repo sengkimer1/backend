@@ -45,7 +45,7 @@
     "OwerID": {
       "type": "relation",
       "relation": "oneToOne",
-      "target": "api::category.category"
+      "target": "api::use.use"
     },
     "categoryID": {
       "type": "relation",

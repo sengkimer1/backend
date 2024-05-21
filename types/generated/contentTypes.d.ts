@@ -877,7 +877,7 @@ export interface ApiProductProduct extends Schema.CollectionType {
     OwerID: Attribute.Relation<
       'api::product.product',
       'oneToOne',
-      'api::category.category'
+      'api::use.use'
     >;
     categoryID: Attribute.Relation<
       'api::product.product',
