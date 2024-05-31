@@ -1,4 +1,13 @@
 # 🚀 Getting started with Strapi
+link for Product page
+Link #https://grateful-nature-6f2f109031.strapiapp.com/api/products?populate=*&filters[categoryID]=${categoryId}&pagination[pageSize]=6
+
+Link for home page
+Link #https://grateful-nature-6f2f109031.strapiapp.com/api/products?populate=*&pagination[pageSize]=34
+
+Link for detail page
+Link #https://grateful-nature-6f2f109031.strapiapp.com/api/products?populate=*&filters[categoryID]=${categoryId}&pagination[pageSize]=34
+
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/dev-docs/cli) (CLI) which lets you scaffold and manage your project in seconds.
 
